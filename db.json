@@ -1,0 +1,275 @@
+{
+  "user": [
+    {
+      "id": "bac9",
+      "name": "Ankursingh",
+      "email": "singhankurkumar369@gmail.com",
+      "phone": "09262326423",
+      "password": "ank"
+    },
+    {
+      "id": "9b25",
+      "name": "Ranesh kumar",
+      "email": "ranesh123@gmail.com",
+      "phone": "70335819851",
+      "password": "ran"
+    },
+    {
+      "id": "9a3e",
+      "name": "Shahil kumar",
+      "email": "Shahi123@gmail.com",
+      "phone": "9262326423",
+      "password": "Ankur@123"
+    },
+    {
+      "id": "0b63",
+      "name": "Tushar",
+      "email": "tushar456@gmail.com",
+      "phone": "09262326423",
+      "password": "Ankur@123"
+    },
+    {
+      "id": "adc6",
+      "name": "khushi",
+      "email": "k234@gmail.com",
+      "phone": "8540009511",
+      "password": "sahil@234"
+    }
+  ],
+  "products": [
+    {
+      "pdid": "pd1",
+      "category": "T-Shirt",
+      "brand": "Polo",
+      "description": "MV02 Men's Super Combed Cotton Blend Graphic Printed Round Neck",
+      "price": "₹1,042",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJa8oTzxDPOK8oLMIWENowtcQtGhONN90RjXs8EsAb9pCq0Tmb",
+      "link": "/placeorder1",
+      "id": "a6f8"
+    },
+    {
+      "pdid": "pd2",
+      "category": "T-Shirt",
+      "brand": "THE FUNKTEE STORE",
+      "description": "Men's Printed Pure Cotton T-Shirt - Regular Fit, Half Sleeve, Round",
+      "price": "₹364 M.R.P: ₹1,199 (70% off)",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMxbemEPpHBbT_6feMk6oIU21LzoEicc0K8Rl3sxxjLcePyaTz",
+      "link": "/placeorder2",
+      "id": "3994"
+    },
+    {
+      "pdid": "pd3",
+      "category": "T-Shirt",
+      "brand": "Jockey",
+      "description": "MV01 Men's Super Combed Cotton Blend Solid Round Neck Half",
+      "price": "₹1,020",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGZ7_aqpIymT0t8GgbCEwWl9NajlW1tmi4JhdNeRLS6nR8tuI5",
+      "link": "/placeorder3",
+      "id": "6849"
+    },
+    {
+      "pdid": "pd4",
+      "category": "T-Shirt",
+      "brand": "XYXX",
+      "description": "Men's Pace 100% Cotton Regular Fit Crew Neck T-Shirt",
+      "price": "₹365 M.R.P: ₹449 (19% off)",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMWzbGsxV5JsY2k0ZLaQmb9W5hQBSVFuX2SaycswcvESOIuFIc",
+      "link": "/placeorder4",
+      "id": "fd29"
+    },
+    {
+      "pdid": "pd5",
+      "category": "Shirt",
+      "brand": "Peter England",
+      "description": "Men's Slim Fit 100% Cotton Printed Shirt",
+      "price": "₹929 M.R.P: ₹1,599 (42% off)",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpQ6oFFI0leUyOD4m-DUlFB9KLYn1ZED_jiOLW373alwKuCFax",
+      "link": "/placeorder5",
+      "id": "fbf0"
+    },
+    {
+      "pdid": "pd6",
+      "category": "Shirt",
+      "brand": "Dennis Lingo",
+      "description": "Men's Solid Slim Fit Cotton Casual Shirt with Spread Collar & Full",
+      "price": "₹499 M.R.P: ₹1,849 (73% off)",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoUYtZnVBDQRzDc-t7CEcO0XkrP2VB55iBuCmgceopVbdjiKy_",
+      "link": "/placeorder6",
+      "id": "cd2a"
+    },
+    {
+      "pdid": "pd7",
+      "category": "Shirt",
+      "brand": "Pinkmint",
+      "description": "Mens Long Sleeve Button Down Shirt for Men Collared Casual",
+      "price": "₹349 M.R.P: ₹1,999 (83% off)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYliIO8ixvfPfpk9BLPhOC4HhBecsu2mb0IatsA_QmGivc4VyP",
+      "link": "/placeorder7",
+      "id": "5ad5"
+    },
+    {
+      "pdid": "pd8",
+      "category": "Shirt",
+      "brand": "The Indian Garage Co",
+      "description": "Men's Regular Fit Shirt",
+      "price": "₹409 M.R.P: ₹1,999 (80% off)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCffmWoJcGQnWXnfr9M0htzUPLfgsyCaQKcppWC8tM_Pnqq_3n",
+      "link": "/placeorder8",
+      "id": "8fc8"
+    },
+    {
+      "pdid": "pd9",
+      "category": "JEANS",
+      "brand": "Alpha Array",
+      "description": "Comfort Slim Fit Jeans for Men",
+      "price": "₹1,699 M.R.P: ₹4,999 (66% off)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUhePBKk8YaFPYXfkg6ZKSTtdrGenvBO1eTc4P2orfeiJcvry",
+      "link": "/placeorder9",
+      "id": "612d"
+    },
+    {
+      "pdid": "pd10",
+      "category": "JEANS",
+      "brand": "Amazon Brand - Symbol",
+      "description": "Men Cotton Rich Stretchable Jeans",
+      "price": "₹816.50 M.R.P: ₹1,899 (57% off)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh01YfM8887hNXDIvjasqqofIacDAVHL-Je-UebkeOpEQi6lc0",
+      "link": "/placeorder10",
+      "id": "73b9"
+    },
+    {
+      "pdid": "pd11",
+      "category": "JEANS",
+      "brand": "Amazon Brand - Symbol",
+      "description": "Men's Cotton Lycra Stretchable Jeans",
+      "price": "₹624 M.R.P: ₹2,499 (75% off)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJnHGajCR9ruJf-Ktr3A2ViGLqISyMk0MILbSP6t9BSqBIev6",
+      "link": "/placeorder11",
+      "id": "10cb"
+    },
+    {
+      "pdid": "pd12",
+      "category": "JEANS",
+      "brand": "Neostreak",
+      "description": "Men's Slim Fit Stretchable Jeans",
+      "price": "₹659 M.R.P: ₹1,599 (59% off)",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTi5E6_rxE6Tn1t4jmBoF-95j4eb7kW6cQPrItxfEIAyNZO9x2",
+      "link": "/placeorder12",
+      "id": "856d"
+    }
+  ],
+  "cart": [
+    {
+      "id": "6a1b",
+      "userid": "0b63",
+      "pdid": "pd1",
+      "quantity": 1
+    },
+    {
+      "id": "5f43",
+      "userid": "9b25",
+      "pdid": "pd1",
+      "quantity": 1
+    },
+    {
+      "id": "f8ed",
+      "userid": "bac9",
+      "pdid": "pd1",
+      "quantity": 1
+    }
+  ],
+  "order": [
+    {
+      "id": "c389",
+      "userid": "9b25",
+      "address": "Hanuman mandir,Patna,Bihar",
+      "cart": [
+        {
+          "id": "54de",
+          "userid": "9b25",
+          "pdid": "pd5",
+          "quantity": 1
+        },
+        {
+          "id": "51ab",
+          "userid": "9b25",
+          "pdid": "pd9",
+          "quantity": 1
+        },
+        {
+          "id": "c37e",
+          "userid": "9b25",
+          "pdid": "pd2",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "b457",
+      "userid": "bac9",
+      "address": "North mandiri,Patna,Bihar",
+      "cart": [
+        {
+          "id": "2212",
+          "userid": "bac9",
+          "pdid": "pd10",
+          "quantity": 7
+        },
+        {
+          "id": "59c7",
+          "userid": "bac9",
+          "pdid": "pd2",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "246d",
+      "userid": "bac9",
+      "address": "hhj",
+      "cart": [
+        {
+          "id": "097b",
+          "userid": "bac9",
+          "pdid": "pd11",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "36b6",
+      "userid": "bac9",
+      "address": "sothpatna,Bihar",
+      "cart": [
+        {
+          "id": "84cc",
+          "userid": "bac9",
+          "pdid": "pd9",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "bef2",
+      "userid": "bac9",
+      "address": "fhfhgghjghj vngvhn",
+      "cart": [
+        {
+          "id": "ce65",
+          "userid": "bac9",
+          "pdid": "pd1",
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "admin": [
+    {
+      "name": "Amrit sir",
+      "email": "singhamritkumar369@gmail.com",
+      "phone": "9262326423",
+      "password": "amrit",
+      "id": "e357"
+    }
+  ]
+}
